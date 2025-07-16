@@ -1,6 +1,6 @@
 ---
 title: "Trends in Cycling mile splits, pace, and elevational changes"
-excerpt: "Brief Analysis <br/><img src='/images/July-2nd-try-2.jpg' width='925' height='500'>"
+excerpt: "Brief Analysis <br/><img src='/chkpage/images/July-2nd-try-2.jpg' width='925' height='500'>
 collection: portfolio
 ---
 
