@@ -15,8 +15,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /files/Chad Mirara Resume ((((.docx
+  # title: "CV"
+  #  url: /files/Chad Mirara Resume ((((.docx
     
   - title: "Resume"
     url: /files/Chad Mirara Resume ((((.docx
