@@ -29,7 +29,7 @@ author:
   location         : "Lewis Center, OH"
   employer         : #
   uri              : # URL
-  email            : "none@example.org" 
+  email            : # email 
 
   # Academic websites
   academia         : # URL
