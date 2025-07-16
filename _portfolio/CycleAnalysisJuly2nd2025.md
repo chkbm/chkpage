@@ -4,7 +4,7 @@ excerpt: "Brief Analysis <br/><img src='/images/Elevation-by-mile.png' width='92
 collection: portfolio
 ---
 
-![Visual displaying batted ball expected wOBA on piches inside vs. outside and where they should be hit](/images/Elevation-by-mile.png)
+[![SABR project slide show](/files/July-2nd-try-2.pdf)
 
 
 
