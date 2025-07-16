@@ -5,6 +5,7 @@ collection: portfolio
 ---
 
 [![SABR project slide show](/files/July-2nd-try-2.pdf)
+Click the link to view image
 
 
 
