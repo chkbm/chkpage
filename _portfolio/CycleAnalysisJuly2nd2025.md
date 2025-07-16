@@ -1,10 +1,10 @@
 ---
 title: "Trends in Cycling mile splits, pace, and elevational changes"
-excerpt: "Brief Analysis <br/><img src='/images/Elevation-by-mile.png' width='925' height='500'>"
+excerpt: "Brief Analysis <br/><img src='/images/July-2nd-try-2.jpg' width='925' height='500'>"
 collection: portfolio
 ---
 
-[![SABR project slide show](/files/July-2nd-try-2.pdf)
+[![SABR project slide show](/images/July-2nd-try-2.png)](/files/July-2nd-try-2.pdf)
 Click the link to view image
 
 
