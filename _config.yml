@@ -25,9 +25,9 @@ author:
   avatar           : "mirarack@miamioh.edu-ac6db1f6.jpg"
   name             : "Chad Mirara"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Data Analyst"
   location         : "Lewis Center, OH"
-  employer         : "Red Brick University"
+  employer         : #
   uri              : # URL
   email            : "none@example.org" 
 
