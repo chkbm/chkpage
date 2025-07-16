@@ -1,6 +1,6 @@
 # Personal Website
 
-This is an academic website forked (then detached) by [Jake Balek](https://github.com/chkbm) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+This is an academic website forked (then detached) by [Chad Mirara](https://github.com/chkbm) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
 # Overview
 Welcome to my personal website! This project displays a personal overview including previous research projects and multiple blogs I've written. This serves as a place where I can share my work, skills and other social backgrounds with anyone interested!
