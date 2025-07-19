@@ -8,8 +8,8 @@ Welcome to my personal website! This project displays a personal overview includ
 # Sections
 - Homepage: provides some background about myself and other links to my social profiles as well as my contact
 - Portfolio: displays some of the major research projects I've previously worked on
-- Blog: includes some of my sports thoughts and basic analytical takes that I've worked on
-- CV: a direct link to my personal resume
+- Blog Posts: includes some of my sports thoughts and basic analytical takes that I've worked on
+- Resume: a direct link to my personal resume
 
 # Contact Me
 Feel free to reach out to me at with any questions, suggestions or even comments about anything!
