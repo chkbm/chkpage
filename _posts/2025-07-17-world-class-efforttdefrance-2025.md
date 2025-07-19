@@ -13,6 +13,11 @@ tags:
 ---
 
 
+<div style="text-align:center;">
+  <img src="/images/Elevation-by-mile.png" style="width:75%;" alt="Tim Merlier's elevation changes in the 12th stage of the 2025 Tour De France.">
+  <p style="text-align:center; font-size:80%;">.</p>
+</div>
+
 ======
 
 ------
