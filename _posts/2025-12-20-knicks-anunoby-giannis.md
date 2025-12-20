@@ -4,9 +4,7 @@ date: 2025-12-20
 permalink: /posts/2025/12/knicks-anunoby-giannis/
 tags:
   - NBA
-  - New York Knicks
-  - Giannis Antetokounmpo
-  - OG Anunoby
+  - Sports
 ---
 
 When the New York Knicks signed OG Anunoby to a 5-year, $212 million contract, they didn't just secure an elite two-way wing—they fundamentally altered their path to acquiring Giannis Antetokounmpo.
