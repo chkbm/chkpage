@@ -14,12 +14,12 @@ The Financial Reality
 
 The OG Anunoby deal represents more than just a significant financial commitment. At $42.4 million per year, it's a statement that the Knicks are building around their current core rather than preserving maximum cap flexibility for a potential Giannis pursuit in 2026 or beyond.
 
-With Jalen Brunson's contract, Julius Randle's salary, and now Anunoby's massive deal, the Knicks have effectively locked themselves into their current trajectory. The financial gymnastics required to create the cap space for a Giannis max contract would require dismantling the very team they've been carefully constructing.
+With Jalen Brunson's contract, KAT's hefty salary, and Anunoby's massive deal, the Knicks have effectively locked themselves into their current trajectory. The financial gymnastics required to create the cap space for a Giannis max contract would require dismantling the very team they've been carefully constructing.
 
 Why This Matters for Giannis
 ======
 
-Giannis Antetokounmpo represents the holy grail of NBA free agency. A two-time MVP, Finals MVP, and one of the most dominant forces in basketball, he's exactly the type of superstar that could transform the Knicks from contenders to champions. But landing him requires more than just hope—it requires cap space, assets, and timing.
+Giannis Antetokounmpo represents the holy grail of NBA free agency. A two-time MVP, Finals MVP, and one of the most dominant forces in basketball, he's exactly the type of superstar that could transform the Knicks from contenders to champions. But landing him requires more than just hope—it requires cap space, assets, and timing. It's well known that he desires to play in the Big Apple.
 
 The Anunoby signing suggests the Knicks have made their choice: build a competitive team now rather than wait for a superstar who may never become available.
 
@@ -27,6 +27,8 @@ The Trade Scenario Problem
 ------
 
 Could the Knicks still trade for Giannis? Theoretically, yes. But the math becomes incredibly complicated. They'd need to match salaries, which likely means including Anunoby himself in any deal—defeating the purpose of signing him in the first place. The Bucks would also demand a king's ransom in draft picks, and the Knicks have already traded away significant future assets in their pursuit of win-now moves.
+
+It will be difficult to find a team that is willing to have OG Anunoby's contract on their payroll, especially with the 2nd apron.
 
 The Silver Lining
 ======
