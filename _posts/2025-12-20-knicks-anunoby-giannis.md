@@ -18,10 +18,10 @@ The OG Anunoby deal represents more than just a significant financial commitment
 
 | Player | Contract Value | Annual Average | Years Remaining |
 |--------|---------------|----------------|-----------------|
-| Karl-Anthony Towns | $220M | $49.2M | 4 years |
-| OG Anunoby | $212M | $42.4M | 5 years |
-| Jalen Brunson | $156.5M | $37.1M | 4 years |
-| Mikal Bridges | $90.9M | $23.3M | 3 years |
+| Karl-Anthony Towns | $220M | $49.2M | 2 years |
+| OG Anunoby | $212M | $42.4M | 3 years |
+| Jalen Brunson | $156.5M | $37.1M | 3 years |
+| Mikal Bridges | $90.9M | $23.3M | 4 years |
 | **Total Core Four** | **$679.4M** | **$152M/year** | **-** |
 
 With Jalen Brunson's contract, KAT's hefty salary, and Anunoby's massive deal, the Knicks have effectively locked themselves into their current trajectory. The financial gymnastics required to create max cap space are nearly impossible without gutting the roster.
