@@ -1,7 +1,7 @@
 ---
 title: "Why Online Privacy Is Largely an Illusion"
 date: 2025-12-29
-permalink: /posts/2025/12/-online-privacy-illusion/
+permalink: /posts/2025/12/online-privacy-illusion/
 tags:
   - Tech
 ---
