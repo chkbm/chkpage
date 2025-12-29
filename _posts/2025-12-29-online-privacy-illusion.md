@@ -5,7 +5,7 @@ date: 2025-12-29
 categories: [privacy, technology, security]
 ---
 
-*Reading time: ~8 minutes*
+
 
 We click "I accept" on privacy policies without reading them. We use incognito mode thinking we're invisible. We trust that our data is safe behind password-protected accounts.  But here's the uncomfortable truth: online privacy, as most of us understand it, is largely an illusion.  Let me explain why. 
 
