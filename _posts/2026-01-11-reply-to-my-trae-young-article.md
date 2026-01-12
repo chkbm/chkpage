@@ -12,7 +12,9 @@ After months of [Trae Young buzz](https://chkbm.github.io/chkpage//posts/2025/12
 
 
 ## My Assesment of the Trade
-
+- Essentially a salary dump
+- The best worst-case scenario as far as return is concerned
+- Amicable conclusion for both Trae and the Hawks
 
 
 ##
