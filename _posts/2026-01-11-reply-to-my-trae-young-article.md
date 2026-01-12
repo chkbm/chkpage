@@ -8,7 +8,7 @@ tags:
 ---
 
 
-After months of [Trae Young buzz](https://chkbm.github.io/chkpage//posts/2025/12/defending-trae-young-trade-value/), ranging from positive to what some, such as myself, would consider to be outright hostile and unfounded, he was finally traded to the Washington Wizards.
+After months of [Trae Young buzz](https://chkbm.github.io/chkpage//posts/2025/12/defending-trae-young-trade-value/), ranging from positive to what some, such as myself, would consider to be outright hostile and unfounded, he was finally [traded](https://www.spotrac.com/news/_/id/3212/wizards-acquire-trae-young-from-hawks-for-cj-mcollum-corey-kispert) to the Washington Wizards.
 
 
 
