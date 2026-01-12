@@ -11,6 +11,10 @@ tags:
 After months of [Trae Young buzz](https://chkbm.github.io/chkpage//posts/2025/12/defending-trae-young-trade-value/), ranging from positive to what some, such as myself, would consider to be outright hostile and unfounded, he was finally traded to the Washington Wizards.
 
 
+
+Hawks Received:       Corey Kispert, CJ McCollum  
+Wizards Received:   Trae Young
+
 ## My Assesment of the Trade
 - Essentially a salary dump
 - The best worst-case scenario as far as return is concerned
