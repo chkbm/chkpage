@@ -1,5 +1,5 @@
 ---
-title: "The Anti-Trae Young Blitz In Current NBA Discourse is Uncalled For and Based on Fiction"
+title: 'What Do The Warriors Plan To Do For Jonathan Kuminga?'
 date: 2026-01-15
 permalink: /posts/2026/01/jonathan-kuminga-warriors-situation/
 tags:
