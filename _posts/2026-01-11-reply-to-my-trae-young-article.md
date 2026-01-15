@@ -19,7 +19,7 @@ Wizards Received:   Trae Young
 ## My Assesment of the Trade
 - Essentially a salary dump
 - The best worst-case scenario as far as return is concerned
-- Amicable conclusion for both Trae and the Hawks
+- [Amicable](https://www.nytimes.com/athletic/6964466/2026/01/12/hawks-trae-young-trade-onsi-saleh/) conclusion for both Trae and the Hawks
 
 
 The Ramifications
