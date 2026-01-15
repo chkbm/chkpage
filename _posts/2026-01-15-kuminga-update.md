@@ -1,7 +1,7 @@
 ---
 title: 'Jonathan Kuminga Update'
 date: 2026-01-15
-permalink: /posts/2026/01/jonathan-kuminga-update/
+permalink: /posts/2026/01/kuminga-update/
 tags:
    - NBA
    - Sports
