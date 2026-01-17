@@ -7,7 +7,7 @@ tags:
   - Society
 ---
 
-The first time I really heard the word "lord" used extensively was while binge-watching *The Last Kingdom*. You know, that gripping Netflix series about the tumultuous period of Anglo-Saxon England before the unification of the Kingdom of England. Lords were these powerful, often ruthless figures who commanded armies, ruled over territories, and held the power of life and death over their subjects. They were feudal overlords in the truest sense—men (and occasionally women) whose authority was absolute, whose word was law, and whose relationship with those beneath them was defined by domination and subservience.
+The first time I really heard the word "lord" used extensively was while binge-watching [*The Last Kingdom*](https://www.netflix.com/title/80074249). You know, that gripping Netflix series about the tumultuous period of Anglo-Saxon England before the unification of the Kingdom of England. Lords were these powerful, often ruthless figures who commanded armies, ruled over territories, and held the power of life and death over their subjects. They were feudal overlords in the truest sense—men (and occasionally women) whose authority was absolute, whose word was law, and whose relationship with those beneath them was defined by domination and subservience.
 
 So imagine my cognitive dissonance when I returned to my modern life and realized we still call the people we pay rent to "landlords." Really? In 2026, we're still using feudal terminology to describe a business relationship? It's absurd when you think about it, yet we've normalized this linguistic anachronism to the point where most people don't even question it.
 
