@@ -1,8 +1,10 @@
 ---
-layout: post
 title: "Why 'Landlord' is an Outdated Term That Needs to Retire"
 date: 2026-01-17
-categories: [housing, language, society]
+permaline: /posts/2026/01/landlord-term-outdated/
+tags: 
+  - Language
+  - Society
 ---
 
 The first time I really heard the word "lord" used extensively was while binge-watching *The Last Kingdom*. You know, that gripping Netflix series about the tumultuous period of Anglo-Saxon England before the unification of the Kingdom of England. Lords were these powerful, often ruthless figures who commanded armies, ruled over territories, and held the power of life and death over their subjects. They were feudal overlords in the truest sense—men (and occasionally women) whose authority was absolute, whose word was law, and whose relationship with those beneath them was defined by domination and subservience.
