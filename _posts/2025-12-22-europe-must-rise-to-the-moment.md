@@ -8,7 +8,7 @@ tags:
   - Europe
 ---
 
-The alarm bells are ringing across Europe, yet the response remains fragmented and inadequate. From the ongoing Russian invasion of Ukraine to the wave of "mysterious" drone sightings over critical infrastructure, Europe faces a convergence of threats that demands nothing less than a fundamental transformation of its security posture.  The question is no longer whether Europe can afford to rise to this moment—it's whether Europe can afford not to. 
+The alarm bells are ringing across Europe, yet the response remains fragmented and inadequate. From the ongoing Russian invasion of Ukraine to the wave of "[mysterious](https://www.wsj.com/world/europe/denmark-says-new-drone-flights-over-military-base-airports-are-hybrid-attack-e9f94aac)" drone sightings over critical infrastructure, Europe faces a convergence of threats that demands nothing less than a fundamental transformation of its security posture.  The question is no longer whether Europe can afford to rise to this moment—it's whether Europe can afford not to. 
 
 The Existential Stakes
 ======
