@@ -2,7 +2,7 @@
 title: "Why 'Landlord' is an Outdated Term That Needs to Retire"
 date: 2026-01-17
 permalink: /posts/2026/01/landlord-term-outdated/
-tags: 
+tags:
   - Language
   - Society
 ---
