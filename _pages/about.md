@@ -8,6 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-## I am a Data Analyst that loves to create intriguing Data Visualizations
 
-{% include nba-dashboard.html %}
+## I am a Data Analyst that loves to create intriguing Data Visualizations
